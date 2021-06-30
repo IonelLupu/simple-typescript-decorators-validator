@@ -1,0 +1,7 @@
+{
+	"name": "John",
+	"coins": 200,
+	"email": "john@email.com",
+	"isBanned": false,
+	"birthday": "2002-02-02"
+}
